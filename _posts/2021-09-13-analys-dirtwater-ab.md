@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Analys Dirtwater Fox
+comments: true
 ---
 
 Om Google har fått nys om att du gillar investeringar och privatekonomi kanske du, likt mig, har fått reklam för bryggeriet Dirtwater Foxs nyemission.  Jag tänkte därför skriva några ord om detta, för att sortera mina tankar och för att förhoppningsvis sortera någon annans tankar. 
