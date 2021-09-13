@@ -57,11 +57,11 @@ Det finns en hel drös med andra relativt nystartade bryggerier eller dryckestil
 
 Alla dessa är små bolag och det blir svårt att säga något vettigt utifrån deras finansiella siffror då de ofta är en del av koncerner eller större tillverkande bolag. Något som går att jämföra enkelt är dock hur väl de når fram över sociala medier. Där kan vi se att nästan alla varumärkena skapar större engagemang över sociala medier. De har fler följare, lojalare följare och genererar fler likes i genomsnitt. Fanns det en svensk sida för företaget valdes den före den internationella.
 
-|**Företag**| Nocco | Celsius | Clean drink | Pro Brands | Vitamin Well | Dirtwater |
-|-|-|-|-|-|-|-|
-|**Följare**|297k|98,7k|73,5k|32,6k|69,6k|40,2k|
-|**Genomsnittliga likes på 10 senaste posterna**| 9790|3877|1409|535|852|576|
-|**Likes/följare**| 0,033|0,039|0,019|0,016|0,012|0,014|
+| **Företag** | Nocco | Celsius | Clean drink | Pro Brands | Vitamin Well | Dirtwater |
+|-------------|-------|---------|-------------|------------|--------------|-----------|
+| **Följare** | 297k  | 98,7k   | 73,5k       | 32,6k      | 69,6k        | 40,2k     | 
+|**Genomsnittliga likes på 10 senaste posterna** | 9790 | 3877 | 1409 | 535 | 852 | 576 |
+|**Likes/följare** |  0,033 | 0,039 | 0,019 | 0,016 | 0,012 | 0,014 |
 
 Alla nya dryckestillverkare har nishen att de skapar ”nyttiga” läsker, antingen för att de är sockerfria, för att de innehåller någon form av kosttillskott eller både och. Ingen av dem verkar dock rikta in sig på kundsegmentet barn, vilket talar för att Dirtwater har en relativt unik nish.
 
@@ -83,13 +83,13 @@ Mycket markandsföring verkar ske genom influencers. Detta är något som nog ä
 
 # Slutsats
 
-|Styrkor|Svagheter|
-|-------|---------|
-|Vettig VD|Nystartat och relativt obeprövat|
-| Bra marknadsföringskanaler | Svagt försäljningsargument |
-| | Potentiellt skumma affärer med tidigare emission |
-| | Liten målgrupp |
-| | Stor konkurrens|
+| Styrkor                    | Svagheter                                        |
+|----------------------------|--------------------------------------------------|
+| Vettig VD                  | Nystartat och relativt obeprövat                 |
+| Bra marknadsföringskanaler | Svagt försäljningsargument                       |
+|                            | Potentiellt skumma affärer med tidigare emission |
+|                            | Liten målgrupp                                   |
+|                            | Stor konkurrens                                  |
 
 Jag personligen hade inte investerat. Jag kan inget om dryckesbranschen och tycker att det räcker att inte allt verkade gå rätt till vid den förra nyemissionen. Skulle det visa sig att allt gick rätt till skulle investeringen kunna vara intressant om den givna prognosen går i uppfyllelse, dock finns det mycket som talar emot det, så som liten målgrupp och stor konkurrens. 
 
@@ -98,6 +98,6 @@ Puss och kram,
 Isak Almquist
 
 [^1]: Deras ord, inte mina.
-[^2]: https://www.livsmedelsverket.se/livsmedel-och-innehall/tillsatser-e-nummer/godkannande
-[^3]: https://www.linkedin.com/in/fredrik-fjellman-2007519 
-[^4]: https://www.fundedbyme.com/sv/campaign/8326/ekobryggeriet-ab-3/documents/?type=e&language=secondary#tabs
+[^2]: [https://www.livsmedelsverket.se/livsmedel-och-innehall/tillsatser-e-nummer/godkannande](https://www.livsmedelsverket.se/livsmedel-och-innehall/tillsatser-e-nummer/godkannande)
+[^3]: [https://www.linkedin.com/in/fredrik-fjellman-2007519](https://www.linkedin.com/in/fredrik-fjellman-2007519)
+[^4]: [https://www.fundedbyme.com/sv/campaign/8326/ekobryggeriet-ab-3/documents/?type=e&language=secondary#tabs](https://www.fundedbyme.com/sv/campaign/8326/ekobryggeriet-ab-3/documents/?type=e&language=secondary#tabs)
