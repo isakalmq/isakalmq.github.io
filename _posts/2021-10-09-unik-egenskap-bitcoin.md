@@ -3,8 +3,6 @@ layout: post
 title: En unik egenskap hos Bitcoin (och andra PoW kryptovalutor)
 comments: true
 ---
-<script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
-
 Bitcoin är en digital produkt med många unika egenskaper, här tänkte jag berätta lite mer om en unik egenskap som jag inte ser diskuteras särksilt mycket.
 ![Bitcoinlogga](https://bitcoin.org/img/home/bitcoin-img.svg)
 
@@ -30,6 +28,8 @@ Allt detta är såklart en grov förenkling av verkligheten, fasta kostnader är
 I grafen nedan presenteras en grafisk representation av allt detta. Y-värdet är kostnaden och x-värdet är producerad mängd. f (fixed costs, fasta) och v (variable costs, rörliga) kan ändras med hjälp av sliders.
 
 De ursprungliga inställningarna, f = 40 och v = 4, skulle betyda vi har 40 kr i fasta kostnader och 4 kr/enhet i rörliga kostnader. Produceras det fem enheter kan vi utläsa att kostnaden blir 60 kr i grafen.  
+
+<script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
 <div id="calculator-physical" style="width: 600px; height: 400px;"></div>
 <script>
   var elt = document.getElementById('calculator-physical');
