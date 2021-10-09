@@ -4,9 +4,10 @@ title: En unik egenskap hos Bitcoin (och andra PoW kryptovalutor)
 comments: true
 ---
 <script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
-![Bitcoinlogga](https://bitcoin.org/img/home/bitcoin-img.svg)
 
 Bitcoin är en digital produkt med många unika egenskaper, här tänkte jag berätta lite mer om en unik egenskap som jag inte ser diskuteras särksilt mycket.
+![Bitcoinlogga](https://bitcoin.org/img/home/bitcoin-img.svg)
+
 
 # Fasta och rörliga kostnader
 När man pratar om produktion av produkter eller tjänster brukar man prata om olika kostnadsslag. Ett exempel på detta är fasta och rörliga kostnader. Fasta kostnader är kostnader som alltid finns oberoende av produktionsvolym. Rörliga kostnader är kostnader som beror på produktionsvolym. En stoltillverkare kan ha fasta kostnader i form av lokalhyra, ritnings-ritande och inköp av verktyg. Samma stoltillverkares rörliga kostnader kan bestå av material, arbetstimmar och underhåll av verktyg. 
@@ -54,6 +55,7 @@ Digitala produkter har dock en helt annan kostnadsstruktur. Digitala produkter �
 De fasta kostnaderna för digitala produkter är därför en stor del av kostnaderna. Ta ett spel som exempel, att planera, designa, programmera och marknadsföra kostar massvis med pengar. Men att sedan sälja spelet är nära på gratis i jämförelse. Det som krävs är i grund och botten ett sätt att ta emot betalning från kunden och ett sätt att föra över data till kunden, två saker som är relativt billiga i nuläget. 
 
 Detta ger oss den viktiga skillnaden:
+
 |                   | Digitala produkter | Fysiska produkter | 
 | ----------------- | ------------------ | ----------------- |
 | Rörliga kostnader | Billiga/försumbara | Dyrt              |
