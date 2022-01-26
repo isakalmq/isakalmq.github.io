@@ -11,9 +11,9 @@ Själva kurvan kan konstrueras genom att börja med den första kurvan i figuren
 
 ![iterationer](/images/koch2.png)
 
-Sedan ersätts varje rakt streck med en förminskad kopia roterad så att *basen*, alltså de två strecken, överlappar det ursprungliga strecket, gör man det får man något som ser ut som den andra kurvan i figuren ovan. Itereras denna process tillräckligt många gånger så får man till slut något som ser ut som sista kurvan i bilden ovan. Fun stuff!
+Sedan ersätts varje rakt streck med en förminskad kopia roterad så att *basen*, alltså de två strecken, överlappar det ursprungliga strecket. Gör man rätt får man något som ser ut som den andra kurvan i figuren ovan. Itereras denna process tillräckligt många gånger så får man till slut något som ser ut som sista kurvan i bilden ovan. Fun stuff!
 
-Som du kanske förstår kan samma sak göras, men med andra kurvor för att uppnå andra resultat. Lämnar som uppgift till läsaren att fundera på hur den första bilden i bloggposten är konstruerad.
+Som du säkert förstår kan samma sak göras med andra kurvor för att uppnå andra resultat. Lämnar som uppgift till läsaren att fundera på hur den första bilden i bloggposten är konstruerad.
 
 ## Webbappen
 Länk till webbappen: [isakalmq.se/koch-js](https://isakalmq.se/koch-js/)
