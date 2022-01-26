@@ -3,7 +3,7 @@ layout: post
 title: Koch-kurvor och ett verktyg jag programmerade förra sommaren 
 comments: true
 ---
-von Kochs kurva är en kontinuerlig kurva som saknar tangent i alla punkter. Den beskrevs av någon gammal svensk gubbe (Helge von Koch för den intresserade läsaren) i början på 1900-talet, kul! Här berättar jag lite mer om kurvan och en liten webapp som jag har gjort för att rita kurvor.
+Von Kochs kurva är en kontinuerlig kurva som saknar tangent i alla punkter. Den beskrevs av någon gammal svensk gubbe (Helge von Koch för den intresserade läsaren) i början på 1900-talet, kul! Här berättar jag lite mer om kurvan och en liten webapp som jag har gjort för att rita kurvor.
 ![kurva](/images/koch.png)
 
 
