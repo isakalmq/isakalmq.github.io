@@ -22,6 +22,8 @@ Iallafall, förra sommaren hade jag ett riktigt knegarjobb där jag klippte grä
 
 Kort fattat trycker man på knappen **Iterate!** för att iterera, **Reset** för att återställa, **+** och **-** för att zooma (går även att göra med scrollhjulet eller med fingertopparna på mobiler) och klickar och drar för att förflytta kurvan. Vill man använda någon annan kurva som ursprungskurva eller ersättningskurva väljer man det i drop-down-menyerna.
 
+All källkod ligger på github om man är lagd åt det hållet! [github.com/isakalmq/koch-js](https://github.com/isakalmq/koch-js)
+
 ## Schyssta bilder
 
 ![screenshot](/images/koch3.png)
